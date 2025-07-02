@@ -51,10 +51,6 @@ Libraries used:
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/81325730/175696177-a2f4505d-da00-46b8-a666-b01bbbbe81b9.png)
-![image](https://user-images.githubusercontent.com/81325730/175696207-ef284509-d383-4c2a-89f2-6f8a3540150a.png)
-![screencapture-localhost-3000-home-2022-06-25-17_35_22](https://user-images.githubusercontent.com/81325730/175773407-bc8e95ef-c457-4730-8f59-fe1b35389497.png)
-![image](https://user-images.githubusercontent.com/81325730/175773415-23d41f16-81e1-4d11-898c-4b5ba753ee8c.png)
-
 
 <details> <summary>NextJS Guide </summary>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
